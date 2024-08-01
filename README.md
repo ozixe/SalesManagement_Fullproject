@@ -1,5 +1,8 @@
 # Merlin Cycles Sales Analysis Project
 
+## Overview
+Merlin Cycles is a renowned store specializing in selling bikes and related accessories. They required a detailed and dynamic analysis of their internet sales to understand customer purchasing patterns, product performance, and sales trends over time.
+
 ## Analysis Objectives
 The primary objective of this project was to transition Merlin Cycles from static internet sales reports to dynamic visual dashboards. The goals were:
 
