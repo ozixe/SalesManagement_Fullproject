@@ -1,5 +1,5 @@
 # Merlin Cycles Sales Analysis Project
-
+![Logo](https://github.com/user-attachments/assets/b446b54a-af0a-451c-8c29-f00633ebc2fc)
 ## Overview
 Merlin Cycles is a renowned store specializing in selling bikes and related accessories. They required a detailed and dynamic analysis of their internet sales to understand customer purchasing patterns, product performance, and sales trends over time.
 
@@ -60,3 +60,8 @@ The primary objective of this project was to transition Merlin Cycles from stati
 ### Performance Monitoring
 - **Dynamic Dashboards**: Regularly update the Power BI dashboard to monitor real-time sales performance against the budget. This will enable timely decision-making and strategic adjustments based on current data.
 - **KPI Tracking**: Establish key performance indicators (KPIs) to track critical metrics such as customer acquisition cost, lifetime value, and return on investment for marketing campaigns. Use these KPIs to measure the effectiveness of strategies and drive continuous improvement.
+
+## Dashboard
+The dashboard can be found in Power BI  [here](https://public.tableau.com/app/profile/oussama.ziane/viz/OlistE-Commerce_16992851459070/EVOLDWEEKTDAY2). This dashboard allowing users to track sales against budget, analyze top customers and products, and uncover key sales trends over time.
+
+![Dashboard Image](https://github.com/user-attachments/assets/fa3692a5-73eb-4dd2-8672-be0bea21744f)
