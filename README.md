@@ -62,6 +62,6 @@ The primary objective of this project was to transition Merlin Cycles from stati
 - **KPI Tracking**: Establish key performance indicators (KPIs) to track critical metrics such as customer acquisition cost, lifetime value, and return on investment for marketing campaigns. Use these KPIs to measure the effectiveness of strategies and drive continuous improvement.
 
 ## Dashboard
-The dashboard can be found in Power BI  [here](https://app.powerbi.com/groups/me/reports/a2fac838-bed0-4ad6-8955-15c6f3703377/ReportSection?experience=power-bi). This dashboard allowing users to track sales against budget, analyze top customers and products, and uncover key sales trends over time.
+The dashboard can be found in Power BI  [here](https://app.powerbi.com/view?r=eyJrIjoiNTY2MDczZjAtYjQ5Yy00YjM3LWJiMzYtYWFjYjUzNzRhYTFjIiwidCI6ImRhMWU4MzY2LTY0MmQtNGQ2ZC05NjI2LTNkZmNkYmI3NGQ5NyJ9). This dashboard allowing users to track sales against budget, analyze top customers and products, and uncover key sales trends over time.
 
 ![Dashboard Image](https://github.com/user-attachments/assets/fa3692a5-73eb-4dd2-8672-be0bea21744f)
